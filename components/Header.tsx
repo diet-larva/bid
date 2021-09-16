@@ -18,8 +18,8 @@ export const Header = () => {
         <NavLink passHref href="/list">
           <a>List</a>
         </NavLink>
-        <NavLink passHref href="/about">
-          <a>About</a>
+        <NavLink passHref href="https://twitter.com/DietLARVA">
+          <a>𝒟𝒾𝑒𝓉 𝕃𝔸ℝ𝕍𝔸</a>
         </NavLink>
       </header>
     </>
